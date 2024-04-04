@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Basic Colors -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- White and Black -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Red Colors -->
+    <color name="red">#FF0000</color>
+    <color name="darkRed">#8B0000</color>
+    <color name="lightRed">#FFC0CB</color>
+
+    <!-- Green Colors -->
+    <color name="green">#00FF00</color>
+    <color name="darkGreen">#008000</color>
+    <color name="lightGreen">#90EE90</color>
+
+    <!-- Blue Colors -->
+    <color name="blue">#0000FF</color>
+    <color name="darkBlue">#00008B</color>
+    <color name="lightBlue">#ADD8E6</color>
+
+    <!-- Yellow Colors -->
+    <color name="yellow">#FFFF00</color>
+    <color name="darkYellow">#FFD700</color>
+    <color name="lightYellow">#FFFFE0</color>
+
+    <!-- Purple Colors -->
+    <color name="purple">#800080</color>
+    <color name="darkPurple">#483D8B</color>
+    <color name="lightPurple">#E6E6FA</color>
+
+    <!-- Orange Colors -->
+    <color name="orange">#FFA500</color>
+    <color name="darkOrange">#FF8C00</color>
+    <color name="lightOrange">#FFDAB9</color>
+
+    <!-- Gray Colors -->
+    <color name="gray">#808080</color>
+    <color name="darkGray">#A9A9A9</color>
+    <color name="lightGray">#D3D3D3</color>
+</resources>
